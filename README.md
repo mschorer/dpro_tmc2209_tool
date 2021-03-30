@@ -1,4 +1,4 @@
-# TMC2209 Configurator and Monitor
+# TMC2209 Configurator and Monitor on DigiSpark Pro + OLED
 
 Used to set up and monitor 4 TMC2209s in my grbl cnc.
 
